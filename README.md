@@ -8,6 +8,49 @@ Retinal and ocular diseases are a prevalent problem in today’s society with op
 Please note that I did not include the processed data set in this repository. I processed and orgnized the kaggle data set through the funding I recived. View the video below as well. 
 I also included the script I utlized to sort the data in a seperate respository: Fovea-DataSetSortingScript
 I included the tensorflow lite compressed models as well. 
+I was unable to add my normal vs amd model. 
+
+Diseases I chose to diagnose: 
+Retinal Diseases:
+-Medical Description
+“Diabetic retinopathy is caused by damage to the blood vessels in the tissue at the back of the eye (retina). Poorly controlled blood sugar is a risk factor.”
+
+
+Age-Related Macular Degeneration 
+-Medical Description
+“Macular degeneration causes loss in the center of the field of vision. In dry macular degeneration, the center of the retina deteriorates. With wet macular degeneration, leaky blood vessels grow under the retina. Blurred vision is a key symptom.”
+
+
+Myopia
+-Medical Description
+“A condition in which close objects appear clearly, but far ones don't.
+Nearsightedness tends to run in families.Faraway objects appear blurry. The condition may develop gradually or rapidly.”
+
+
+Glaucoma
+-Medical Description:
+“A group of eye conditions that can cause blindness. With all types of glaucoma, the nerve connecting the eye to the brain is damaged, usually due to high eye pressure. The most common type of glaucoma (open-angle glaucoma) often has no symptoms other than slow vision loss.”
+
+
+Ocular Hypertension
+-Medical Description:
+“Ocular hypertension is the result of poor drainage of the aqueous humor (fluid inside the eye). Essentially, this means that too much fluid enters the eye without being drained, causing high amounts of pressure to build up. Can be diagnosed and visualized via the Retina”. 
+
+
+Cataract
+-Medical Description:
+“Clouding of the normally clear lens of the eye. Most cataracts develop slowly over the course of years. The main symptom is blurry vision. Having cataracts can be like looking through a cloudy window.” Can be diagnosed and visualized via the Retina. This can make my model more versatile. 
+
+Healthy
+-Medical Description:
+“Health Retina warrants a clear and cohesive vision.”
+-In my model, I will utilize the healthy retina dataset as a baseline and a comparison. If no retinal disease features are detected this will be the default image. 
+
+
+
+Retinal Disease Diagnosis [Process and Information]:
+-Fluorescein Angiography Equipment or Highly Advanced [costly] Fundus Cameras are utilized to image the Retina and the Fundus. 
+
 Other links: 
 
 Press Release: https://ibio.org/ibio-announces-winner-of-illinois-biogeneius-challenge-student-competition-2/ 
