@@ -7,8 +7,11 @@ Retinal and ocular diseases are a prevalent problem in today’s society with op
 
 Other links: 
 
-https://ibio.org/ibio-announces-winner-of-illinois-biogeneius-challenge-student-competition-2/ 
-https://www.youtube.com/watch?v=BsjGtkZOfUA 
+Press Release: https://ibio.org/ibio-announces-winner-of-illinois-biogeneius-challenge-student-competition-2/ 
+
+Overview Video: https://www.youtube.com/watch?v=BsjGtkZOfUA 
+
 https://drive.google.com/file/d/12Gcp8-YDSEMbg9ULnCXnmOOHtRckwKdb/view
-https://www.youtube.com/watch?v=0U2_JKBoiG0&t=15s 
+
+Overhttps://www.youtube.com/watch?v=0U2_JKBoiG0&t=15s 
 
