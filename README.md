@@ -7,6 +7,7 @@ Retinal and ocular diseases are a prevalent problem in today’s society with op
 
 Please note that I did not include the processed data set in this repository. I processed and orgnized the kaggle data set through the funding I recived. View the video below as well. 
 I also included the script I utlized to sort the data in a seperate respository: Fovea-DataSetSortingScript
+I included the tensorflow lite compressed models as well. 
 Other links: 
 
 Press Release: https://ibio.org/ibio-announces-winner-of-illinois-biogeneius-challenge-student-competition-2/ 
